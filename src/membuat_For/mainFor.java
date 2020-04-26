@@ -1,4 +1,6 @@
-public class For_main {
+package membuat_For;
+
+public class mainFor {
     public static void main(String[] args) {
         int isiGelas = 0;
         int penuh =225;
