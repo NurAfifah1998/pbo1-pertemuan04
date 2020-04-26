@@ -1,4 +1,6 @@
-public class do_while {
+package membuat_doWhile;
+
+public class main {
     public static void main(String[] args) {
         int isiGelas = 0;
         int penuh =225;
