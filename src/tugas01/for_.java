@@ -10,13 +10,13 @@ public class for_ {
         System.out.println("hasil dalam 1 lusin :"+lusin_1+"buah");
         System.out.println("hasil dalam 2 lusin :"+lusin_2+"buah");
 
-        for (isianBarang=0;isianBarang<=lusin_1;isianBarang++){
+        for (isianBarang=0;isianBarang<=lusin_2;isianBarang++){
             isianBarang++;
             System.out.println("memasukkan jumlah barang...");
             System.out.println("Isi Barang : " + isianBarang + "Buah");
 
         }
-        System.out.println("Finale: Isi Gelas sekarang :"+ isianBarang + "Buah dalam 1 lusin");
+        System.out.println("Finale: Isi Gelas sekarang :"+ isianBarang + "Buah dalam 2 lusin");
 
 
     }
