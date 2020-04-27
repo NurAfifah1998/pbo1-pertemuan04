@@ -15,7 +15,7 @@ public class do_while_ {
             System.out.println("memasukkan jumlah barang...");
             System.out.println("Isi barang : " + isianBarang+ "buah");
 
-        } while (isianBarang != lusin_1);
-        System.out.println("Finale: Isibarang:"+ isianBarang + "buah dalam 1 lusin");
+        } while (isianBarang != lusin_2);
+        System.out.println("Finale: Isibarang:"+ isianBarang + "buah dalam 2 lusin");
     }
 }
