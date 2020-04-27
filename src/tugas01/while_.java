@@ -10,13 +10,13 @@ public class while_ {
         System.out.println("hasil dalam 1 lusin :"+lusin_1+"buah");
         System.out.println("hasil dalam 2 lusin :"+lusin_2+"buah");
 
-        while (isianBarang != lusin_1){
+        while (isianBarang != lusin_2){
             isianBarang++;
             System.out.println("memasukkan jumlah barang...");
             System.out.println("Isi barang : " + isianBarang + "buah");
 
         }
-        System.out.println("Akhir Isi baramng:"+ isianBarang + "buah dalam 1 lusin");
+        System.out.println("Akhir Isi baramng:"+ isianBarang + "buah dalam 2 lusin");
 
 
 
