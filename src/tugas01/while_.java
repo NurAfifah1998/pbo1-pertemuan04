@@ -16,7 +16,9 @@ public class while_ {
             System.out.println("Isi barang : " + isianBarang + "buah");
 
         }
-        System.out.println("Akhir Isi baramng:"+ isianBarang + "buah");
+        System.out.println("Akhir Isi baramng:"+ isianBarang + "buah dalam 1 lusin");
+
+
 
     }
 }
